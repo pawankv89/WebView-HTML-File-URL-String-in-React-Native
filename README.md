@@ -206,7 +206,7 @@ or on the iOS Simulator by running
 
 
 ### Video Demo
-[![Watch the video](https://img.youtube.com/vi/4I8Uil2kAvs/0.jpg)](https://youtu.be/4I8Uil2kAvs)
+[![Video Demo](https://img.youtube.com/vi/4I8Uil2kAvs/0.jpg)](https://youtu.be/4I8Uil2kAvs)
 
 
 ## License
